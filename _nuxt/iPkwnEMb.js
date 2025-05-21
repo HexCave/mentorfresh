@@ -1,0 +1,1 @@
+import{_ as t,v as o,x as s,I as l}from"./Cx6H-lFV.js";const r={},c={class:"flex flex-col items-center w-full overflow-x-hidden relative bg-white/50"};function n(e,a){return o(),s("div",c,[l(e.$slots,"default")])}const _=t(r,[["render",n]]);export{_ as default};
